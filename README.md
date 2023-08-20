@@ -1,6 +1,7 @@
 # Calculator Web App
 
 This is a simple calculator web application built using HTML, CSS, and. It allows users to perform basic arithmetic calculations.
+![Screen Shot 2023-08-20 at 4 36 54 PM](https://github.com/Meowmerry/Calculator-UI--Grid/assets/50789325/2d159b3b-5ed3-4606-aa08-bf4c2f845f19)
 
 ## Usage
 
